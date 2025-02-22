@@ -11,7 +11,7 @@ Seigan é um jovem alienigena de um planeta distante. Sua vida muda quando ele p
 ### Uma jornada:
 Embarque numa jornada pela história da humanidade, conhecendo personagens, lugares e eventos marcantes.
 
-![Image](https://github.com/user-attachments/assets/0ac526e0-7f60-45ca-aebe-15c21cc5dfdb)
+![JornadaPrint](https://github.com/user-attachments/assets/93db65c5-22fa-49d2-96d4-baaca80f81d8)
 
 ### Desafie-se:
 Participe do dia-a-dia dos habitantes de cada era, e se involva em diversas missões.
@@ -37,6 +37,10 @@ Jamais se descuide dos perigos a espreita.
 Aventure-se por um mundo repleto de vida.
 
 ![ExplorePrint](https://github.com/user-attachments/assets/3e2e0292-d8e0-4ffd-a750-daeaacb9db78)
+
+## Trailer do Jogo
+
+[![image](https://github.com/user-attachments/assets/241158f6-03e0-4e26-b577-d56569a62f06)](https://youtu.be/cwbjhuf9rH4)
 
 
 

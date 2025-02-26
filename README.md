@@ -42,6 +42,9 @@ Aventure-se por um mundo repleto de vida.
 
 [![image](https://github.com/user-attachments/assets/241158f6-03e0-4e26-b577-d56569a62f06)](https://youtu.be/cwbjhuf9rH4)
 
+### Trilha Sonora
+A trilha sonora do jogo está disponível para ouvir e baixar em: [SoundCloud - Pálido Ponto Azul](https://soundcloud.com/vitor-ars/sets/palido-ponto-azul-beta-soundtrack)
+
 
 
 

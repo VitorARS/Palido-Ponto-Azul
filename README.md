@@ -5,6 +5,32 @@ RPG de aventura 2D desenvolvido na Godot Engine.
 
 Pálido Ponto Azul é um jogo educativo que visa auxiliar no ensino de história. O trabalho foi desenvolvido como parte de um TCC no IFC-CAS e todo o projeto — código, sprites, música e narrativa — foi desenvolvido por mim.
 
+## Instruções de Execução
+
+### Windows
+
+#### Opção 1: Usando o arquivo `.rar`
+
+1. Descompacte o arquivo `ppa-windows.rar` em uma pasta de sua escolha.
+2. Clique no arquivo `.exe` para iniciar o jogo.
+
+#### Opção 2: Usando o instalador
+
+1. Execute o arquivo `ppa-windows-setup.exe`.
+2. Siga as instruções do instalador.
+
+    **Nota:** Caso o Windows mostre um alerta de vírus, clique em **"Executar assim mesmo"**. Isso ocorre porque o software não é verificado, mas pode ser executado sem problemas.
+
+### Linux
+
+1. Descompacte o arquivo `ppa-linux.rar` em uma pasta de sua escolha.
+2. Abra o terminal na pasta onde o arquivo foi descompactado.
+3. Execute os seguintes comandos para dar permissão de execução e rodar o jogo:
+   
+   ```bash
+   chmod +x ppa-linux.x86_64
+   ./ppa-linux.x86_64
+
 ## Narrativa
 Seigan é um jovem alienigena de um planeta distante. Sua vida muda quando ele percebe que sua prova de história sobre a "espécie humana" está se aproximando, mas não há mais tempo para estudar. Determinado a tirar uma boa nota, ele decide viajar no tempo e testemunhar a história da humanidade com os próprios olhos.
 
@@ -41,6 +67,10 @@ Aventure-se por um mundo repleto de vida.
 ## Trailer do Jogo
 
 [![Trailer do Jogo](https://github.com/user-attachments/assets/84c2541e-c5a4-4f22-bbc0-c4d0d77837b2)](https://www.youtube.com/watch?v=i7KNRlxub8Q)
+
+## Gameplay
+
+[![Gameplay do Jogo](https://github.com/user-attachments/assets/37daabe3-9e87-4057-b540-65049823caf0)](https://www.youtube.com/watch?v=2yVQUD0egKM&t=480s)
 
 ### Trilha Sonora
 A trilha sonora do jogo está disponível para ouvir e baixar em: [SoundCloud - Pálido Ponto Azul](https://soundcloud.com/vitor-ars/sets/palido-ponto-azul-beta-soundtrack)
